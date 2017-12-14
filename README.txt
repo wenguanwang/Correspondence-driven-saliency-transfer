@@ -17,6 +17,7 @@ you should cite above paper in any resulting publication.
 
 The code has been tested on Window and Linux platforms with matlab.
 
+The results on DUT, ECCSD, MSRA1000, MSRA5000 and PASCAL datasets are stored in 'rseults.rar'.
 
 ===========================================================================
 How to run a simple demo:
