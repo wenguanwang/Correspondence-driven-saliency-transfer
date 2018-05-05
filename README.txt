@@ -17,6 +17,8 @@ you should cite above paper in any resulting publication.
 
 The code has been tested on Window and Linux platforms with matlab.
 
+The PR-curve, F-measure, and MAE on various datasets are stored in 'results.xlsx'.
+
 The results on DUT, ECCSD, MSRA1000, MSRA5000 and PASCAL datasets are stored in 'rseults.rar'.
 
 ===========================================================================
