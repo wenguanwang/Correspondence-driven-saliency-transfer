@@ -1,7 +1,7 @@
 The code (V1) is for: 
 ===========================================================================
 W. Wang, J. Shen, L. Shao, and F. Porikli, 
-Correspondence driven saliency transfer 
+[Correspondence driven saliency transfer](https://www.researchgate.net/publication/306435619_Correspondence_Driven_Saliency_Transfer) 
 IEEE Trans. on Image Processing,25(11):5025- 5034, 2016       
 ===========================================================================
 
